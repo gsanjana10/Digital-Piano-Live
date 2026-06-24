@@ -20,7 +20,7 @@ An interactive virtual piano built using HTML, CSS, JavaScript, and the Web Audi
 - style.css
 - script.js
 
-  ]
+  
  ## 📌 Features
 
 - Interactive piano keys
